@@ -16,3 +16,9 @@ Height: This column represents the height of the fish. It is a numerical variabl
 
 Width: This column represents the width of the fish. Like the other numerical variables, it is also typically measured in centimetres.
 
+![003 Screenshot 2024-03-18 182104](https://github.com/manuaman/lab-4-Fish-market/assets/30624966/c91fb117-50ec-4ecd-ae53-3554e911d6ca)
+
+![002Screenshot 2024-03-18 181945](https://github.com/manuaman/lab-4-Fish-market/assets/30624966/37da0c23-6711-4e66-ba9a-a398c932a30d)
+
+
+
